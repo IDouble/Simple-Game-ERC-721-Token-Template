@@ -1,6 +1,13 @@
 # 🔮 Simple Game ERC-721 Token Template 🔮
 🔮 Very Simple **ERC-721 Smart Contract Template** to create your own **ERC-721 Tokens** on the **Ethereum** Blockchain, with many customizable Options 🔮
 
+## What is ERC-721? 💎
+**ERC-721** is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), **ERC-721 Tokens** are all unique. 
+
+One of the most known examples for an **ERC-721 Token** is Crypto Kitties (https://www.cryptokitties.co/), where each Cat is an unique **ERC-721 Token**. 😺
+
+## Setup ⚙️
+
 Each Line of the **Solidity Code** has a comment that explains what is happening. 📝 
 
 The Setup is fairly easy, you just need to click on the [Remix link](https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834) or use the [Gist link](https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834) and you're done. </br>
@@ -15,6 +22,9 @@ GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3
 ![Remix Solidity IDE Ethereum erc 721 erc721 erc-721 item game blockchain](Images/ERC-721-Remix-IDE-Solidity.png)
 
 ## ⚔️ Item.sol ⚔️ (ERC-721 Token)
+
+In this small example we are creating an ERC-721 Token, that could be used as an in-game Item. ⚔️
+
 **Example: a Sword as a Item saved in the Ethereum Blockchain.**
 ```
 pragma solidity ^0.4.24;
