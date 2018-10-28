@@ -7,7 +7,7 @@ Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf
 
 GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834
 
-## [📝 Remix - Solidity IDE  📝](https://ayidouble.github.io/Binary-Calculator-JavaScript)
+## [📝 Remix - Solidity IDE  📝](https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834)
 
 Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834
 
