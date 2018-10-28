@@ -1,6 +1,8 @@
 # 🔮 Simple Game ERC-721 Token Template 🔮
 🔮 Very Simple **ERC-721 Smart Contract Template** to create your own **ERC-721 Tokens** on the **Ethereum** Blockchain, with many customizable Options 🔮
 
+Each Line of the **Solidity Code** has a comment that explains what is happening. 📝 
+
 Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d83
 
 GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834
