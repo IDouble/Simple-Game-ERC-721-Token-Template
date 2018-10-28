@@ -12,13 +12,9 @@ GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3
 
 ## [📝 Remix - Solidity IDE  📝](https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834)
 
-Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834
-
-GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834
-
 ![Remix Solidity IDE Ethereum erc 721 erc721 erc-721 item game blockchain](Images/ERC-721-Remix-IDE-Solidity.png)
 
-## ⚔️ Item.sol ⚔️
+## ⚔️ Item.sol ⚔️ (ERC-721 Token)
 **Example: a Sword as a Item saved in the Ethereum Blockchain.**
 ```
 pragma solidity ^0.4.24;
