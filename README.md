@@ -3,6 +3,9 @@
 
 Each Line of the **Solidity Code** has a comment that explains what is happening. 📝 
 
+The Setup is fairly easy, you just need to click on the [Remix link](https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834) or use the [Gist link](https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834) and you're done. </br>
+If you have problems with it, you can also do it the good old way and add each file separately. (Takes about 1 minute)
+
 Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834
 
 GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834
