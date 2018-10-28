@@ -3,9 +3,17 @@
 
 Each Line of the **Solidity Code** has a comment that explains what is happening. 📝 
 
-Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d83
+Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834
 
 GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834
+
+## [📝 Remix - Solidity IDE  📝](https://ayidouble.github.io/Binary-Calculator-JavaScript)
+
+Remix IDE Link: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=false&gist=6dfc6f9a27c0e6220094943657e3d834
+
+GitHub Gist Link: https://gist.github.com/AYIDouble/6dfc6f9a27c0e6220094943657e3d834
+
+![Remix Solidity IDE Ethereum erc 721 erc721 erc-721 item game blockchain](Images/ERC-721-Remix-IDE-Solidity.png)
 
 ## ⚔️ Item.sol ⚔️
 **Example: a Sword as a Item saved in the Ethereum Blockchain.**
