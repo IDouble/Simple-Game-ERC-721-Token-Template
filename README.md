@@ -30,13 +30,13 @@ At Line **14–16**: We define that the **owner** is the user of the contract.
 
 At Line **18**: We define a function **createItem**, where the **name** (**_name**) of the **Item** is a parameter and the Ethereum address (**_to**) where we want to send our **Items**.
 
-At Line **19**: We define that only the owner of the contract is able to create **Items**.
+At Line **19**: We define that only the **owner** of the contract is able to create **Items**.
 
 At Line **20**: Each time we create an **Item** the current Length of the **Item** array is being used as the ID for the **Item**. (Each **Item** has a unique ID)
 
 At Line **21**: The **Item** gets created and added to our **Items** array
 
-At Line **22**: The _mint function from the ERC721 Libraries is used for sending our **Items** to the specific ethereum address. As an example, this is needed to send the created **Item** to your ethereum address or any other address.
+At Line **22**: The **_mint** function from the ERC721 Libraries is used for sending our **Items** to the specific ethereum address. As an example, this is needed to send the created **Item** to your ethereum address or any other address.
 
 ## ⚔️ Item.sol ⚔️ (ERC-721 Token)
 
