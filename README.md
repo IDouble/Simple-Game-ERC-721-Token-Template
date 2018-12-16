@@ -51,7 +51,7 @@ contract Item is ERC721{
     struct Item{
         string name; // Name of the Item
         uint level; // Item Level
-        uint rarityLevel;  // 1 = normal, 2 = rare, 3 = epic, 4= legendary
+        uint rarityLevel;  // 1 = normal, 2 = rare, 3 = epic, 4 = legendary
     }
     
     Item[] public items; // First Item has Index 0
