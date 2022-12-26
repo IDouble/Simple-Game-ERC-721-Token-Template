@@ -4,7 +4,7 @@ import "./IERC721.sol";
 import "./IERC721Receiver.sol";
 import "./SafeMath.sol";
 import "./Address.sol";
-import "./IERC165.sol";
+import "./ERC165.sol";
 
 /**
  * @title ERC721 Non-Fungible Token Standard basic implementation
