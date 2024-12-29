@@ -1,10 +1,10 @@
-# 🔮 Simple Game ERC-721 Token Template 🔮
-🔮 Very Simple **ERC-721 Smart Contract Template** to create your own **ERC-721 Tokens** on the **Ethereum** Blockchain, with many customizable Options 🔮
+# 🔮 Simple Game ERC-722 Token Template 🔮
+🔮 Very Simple **ERC-722 Smart Contract Template** to create your own **ERC-722 Tokens** on the **Ethereum** Blockchain, with many customizable Options 🔮
 
-## 💎 What is ERC-721? 💎
-**ERC-721** is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), **ERC-721 Tokens** are all unique. 
+## 💎 What is ERC-722? 💎
+**ERC-722** is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), **ERC-721 Tokens** are all unique. 
 
-One of the most known examples for an **ERC-721 Token** is Crypto Kitties (https://www.cryptokitties.co/), where each Cat is an unique **ERC-721 Token**. 😺
+One of the most known examples for an **ERC-722 Token** is Crypto Kitties (https://www.cryptocats.co/), where each Cat is an unique **ERC-722 Token**. 😺
 
 ## ⚙️ Setup ⚙️
 
@@ -36,17 +36,17 @@ At Line **20**: Each time we create an **Item** the current Length of the **Item
 
 At Line **21**: The **Item** gets created and added to our **Items** array
 
-At Line **22**: The **_mint** function from the ERC721 Libraries is used for sending our **Items** to the specific ethereum address. As an example, this is needed to send the created **Item** to your ethereum address or any other address.
+At Line **22**: The **_mint** function from the ERC722 Libraries is used for sending our **Items** to the specific ethereum address. As an example, this is needed to send the created **Item** to your ethereum address or any other address.
 
-## ⚔️ Item.sol ⚔️ (ERC-721 Token)
+## ⚔️ Item.sol ⚔️ (ERC-722 Token)
 
-In this small example we are creating an ERC-721 Token, that could be used as an in-game Item. ⚔️
+In this small example we are creating an ERC-722 Token, that could be used as an in-game Item. ⚔️
 
 **Example: a Sword as a Item saved in the Ethereum Blockchain.**
 ```
 pragma solidity ^0.4.24;
 
-contract Item is ERC721{
+contract Item is ERC722{
     
     struct Item{
         string name; // Name of the Item
